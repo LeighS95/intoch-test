@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/intoch-test/static/css/main.32b8bb97.chunk.css",
+    "main.js": "/intoch-test/static/js/main.e45ffb2c.chunk.js",
+    "main.js.map": "/intoch-test/static/js/main.e45ffb2c.chunk.js.map",
+    "runtime-main.js": "/intoch-test/static/js/runtime-main.b2b1c712.js",
+    "runtime-main.js.map": "/intoch-test/static/js/runtime-main.b2b1c712.js.map",
+    "static/js/2.ff58c1a6.chunk.js": "/intoch-test/static/js/2.ff58c1a6.chunk.js",
+    "static/js/2.ff58c1a6.chunk.js.map": "/intoch-test/static/js/2.ff58c1a6.chunk.js.map",
+    "index.html": "/intoch-test/index.html",
+    "precache-manifest.fd7cb16f8bb463861d3ccc63fadbd959.js": "/intoch-test/precache-manifest.fd7cb16f8bb463861d3ccc63fadbd959.js",
+    "service-worker.js": "/intoch-test/service-worker.js",
+    "static/css/main.32b8bb97.chunk.css.map": "/intoch-test/static/css/main.32b8bb97.chunk.css.map",
+    "static/js/2.ff58c1a6.chunk.js.LICENSE": "/intoch-test/static/js/2.ff58c1a6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2b1c712.js",
+    "static/js/2.ff58c1a6.chunk.js",
+    "static/css/main.32b8bb97.chunk.css",
+    "static/js/main.e45ffb2c.chunk.js"
+  ]
+}
