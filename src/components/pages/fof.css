@@ -1,0 +1,34 @@
+.Content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Fof__Title {
+    text-align: center;
+}
+
+.Fof_Text {
+    text-align: center;
+}
+
+.Link__Button {
+    margin: 0 auto;
+    padding: 8px 20px;
+    margin: 10px;
+    font-size: 1rem;
+    border: 2px solid blue;
+    background: blue;
+    color: #fff;
+    border-radius: 8px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+.Link__Button:hover {
+    background: #fff;
+    color: blue;
+    transition: all 0.25s ease;
+}

@@ -1,0 +1,59 @@
+.Form__SignUp {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+}
+
+.Form__SignUp > div {
+    width: 100%;
+}
+
+.Detail__List {
+    list-style: none;
+    text-align: left;
+}
+
+.Detail__List_Item {
+    margin: 10px 0;
+}
+
+.Form__Buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.Form__Button {
+    padding: 8px 20px;
+    height: 40px;
+    /* width: 120px; */
+    margin: 10px;
+    font-size: 1rem;
+    border: none;
+    background: blue;
+    color: #fff;
+    border-radius: 8px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+.Form__Button:hover {
+    background: #fff;
+    color: blue;
+    border: 2px solid blue;
+    transition: all 0.25s ease;
+}
+
+.Error__Msg {
+    font-size: 0.7rem;
+    color: red;
+}
+
+.deactive {
+    background: grey;
+    color: #fff;
+    border: none;
+    pointer-events: none;
+}

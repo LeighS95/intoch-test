@@ -1,0 +1,16 @@
+.Form__Field {
+    display: flex;
+    margin: 12px 0;
+}
+
+.Form__Field_Label {
+    width: 30%;
+    font-size: 1rem;
+}
+
+.Form__Field_Input {
+    padding: 8px;
+    border: 1px solid #777;
+    border-radius: 8px;
+    outline: none;
+}

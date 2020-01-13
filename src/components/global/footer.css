@@ -1,0 +1,27 @@
+.Footer {
+    position: relative;
+    bottom: 0px;
+    display: flex;
+    height: 180px;
+    width: 100%;
+    background: #333;
+    justify-content: space-around;
+}
+
+.Footer__Section {
+    margin: 20px 0;
+}
+
+.Footer__Section__List {
+    list-style: none;
+    color: #fff;
+}
+
+.Footer__Section__List_Title {
+    margin-bottom: 8px;
+}
+
+.Footer__Section__List_Item {
+    font-size: 0.8rem;
+    margin-bottom: 4px;
+}

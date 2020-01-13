@@ -1,0 +1,40 @@
+.Header {
+    position: fixed;
+    top: 0;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f9f9f9;
+    box-shadow: 0 1px 10px #333;
+    z-index: 99;
+}
+
+.Header__Logo {
+    margin-left: 20px;
+    flex-grow: 1;
+}
+
+.Nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+    flex-grow: 2;
+}
+
+.Nav__List {
+    display: flex;
+    list-style: none;
+}
+
+.Nav__List_Item > a {
+    margin: 0 12px;
+    color: blue;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.Nav__List_Item > a:hover {
+    text-decoration: underline;
+}
